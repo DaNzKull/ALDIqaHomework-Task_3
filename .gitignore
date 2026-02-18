@@ -4,3 +4,4 @@ target/
 # IntelliJ IDEA #
 out/
 .idea/workspace.xml
+*.iml
